@@ -46,7 +46,7 @@ The model is trained using XGBoost, a powerful gradient boosting algorithm. The 
 The trained model is deployed using **Streamlit**, allowing users to input customer data and receive churn predictions. The deployment process includes:
 - **Building a Web Interface**: Designing an interactive UI for input and output display.
 - **Loading the Trained Model**: Using the saved model for real-time predictions.
-- **Deploying on Heroku**: Hosting the application on a cloud platform.
+- **Deploying on Streamlit**: Hosting the application on a cloud platform.
 
 ## 8. Conclusion & Insights
 Based on the analysis and model performance, the following insights were obtained:
