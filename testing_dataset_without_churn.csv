@@ -1,0 +1,755 @@
+Tenure,PreferredLoginDevice,CityTier,WarehouseToHome,PreferredPaymentMode,Gender,HourSpendOnApp,NumberOfDeviceRegistered,PreferedOrderCat,SatisfactionScore,MaritalStatus,NumberOfAddress,Complain,OrderAmountHikeFromlastYear,CouponUsed,OrderCount,DaySinceLastOrder,CashbackAmount
+0,Phone,3,15,Debit Card,Male,2,4,Laptop & Accessory,5,Single,8,0,23,0,1,3,134
+0,Phone,1,11,COD,Male,2,3,Mobile Phone,3,Single,2,1,13,2,2,2,134
+20,Mobile Phone,1,29,Credit Card,Female,3,3,Fashion,2,Divorced,2,0,12,11,15,6,203
+5,Computer,3,14,E wallet,Female,2,3,Fashion,2,Single,2,0,14,2,3,7,190
+30,Phone,1,15,CC,Female,3,4,Mobile Phone,4,Divorced,5,1,20,1,1,0,133
+30,Mobile Phone,1,30,Debit Card,Male,2,2,Fashion,2,Married,4,1,16,1,1,4,194
+8,Computer,1,8,Credit Card,Female,2,3,Laptop & Accessory,4,Single,6,0,11,1,1,2,144
+15,Computer,1,27,Credit Card,Female,2,3,Laptop & Accessory,3,Married,3,0,16,0,1,2,153
+11,Mobile Phone,1,8,Debit Card,Male,2,3,Laptop & Accessory,3,Divorced,10,0,14,0,1,0,166
+0,Computer,1,6,COD,Male,2,4,Laptop & Accessory,5,Divorced,6,0,19,0,2,0,143
+3,Computer,1,6,Debit Card,Male,2,4,Fashion,3,Single,2,0,22,2,5,8,185
+27,Mobile Phone,3,9,E wallet,Female,2,3,Laptop & Accessory,5,Divorced,3,0,14,1,1,5,159
+18,Computer,1,13,Debit Card,Male,3,2,Laptop & Accessory,3,Divorced,5,0,17,0,1,2,164
+9,Phone,1,12,Debit Card,Male,2,3,Mobile Phone,2,Divorced,1,0,11,4,10,11,132
+9,Computer,1,24,Debit Card,Male,2,2,Mobile Phone,2,Divorced,5,0,18,0,1,0,137
+24,Mobile Phone,1,8,Credit Card,Male,2,5,Laptop & Accessory,4,Married,6,0,18,0,1,2,155
+9,Computer,1,30,Debit Card,Female,2,3,Laptop & Accessory,4,Divorced,8,0,15,0,1,8,157
+4,Phone,1,11,COD,Male,2,3,Mobile Phone,2,Divorced,1,1,12,0,1,3,148
+0,Phone,3,8,Debit Card,Male,3,3,Laptop & Accessory,3,Single,2,1,11,1,1,4,145
+16,Mobile Phone,1,13,Debit Card,Female,2,3,Fashion,5,Divorced,9,0,16,1,1,0,200
+13,Mobile Phone,3,6,Credit Card,Male,2,5,Laptop & Accessory,2,Divorced,3,1,22,1,1,2,175
+0,Mobile Phone,3,14,E wallet,Female,2,3,Laptop & Accessory,4,Divorced,2,0,18,0,1,7,162
+2,Mobile Phone,3,16,E wallet,Female,2,4,Laptop & Accessory,4,Married,2,1,14,0,1,7,183
+3,Computer,3,31,COD,Female,2,3,Laptop & Accessory,3,Divorced,8,1,12,1,2,2,147
+9,Computer,3,6,Credit Card,Female,2,3,Laptop & Accessory,2,Single,5,0,15,1,1,0,167
+0,Computer,3,25,E wallet,Male,3,2,Laptop & Accessory,2,Single,9,1,13,1,1,4,153
+13,Mobile Phone,3,8,E wallet,Female,2,3,Laptop & Accessory,4,Married,8,0,12,0,1,3,157
+10,Computer,1,31,Credit Card,Female,3,3,Laptop & Accessory,3,Divorced,4,1,15,3,10,7,144
+12,Computer,1,6,Debit Card,Male,2,3,Others,3,Married,2,1,14,0,1,6,292
+15,Computer,1,35,Debit Card,Female,3,3,Laptop & Accessory,3,Married,3,0,11,1,1,2,146
+3,Mobile Phone,1,8,Debit Card,Female,2,5,Laptop & Accessory,2,Single,3,0,20,0,1,2,161
+0,Phone,1,16,CC,Male,2,5,Mobile Phone,2,Married,8,0,13,0,1,3,134
+8,Phone,3,6,E wallet,Male,2,3,Laptop & Accessory,3,Divorced,10,0,11,3,6,9,147
+14,Computer,1,8,UPI,Female,3,4,Laptop & Accessory,3,Single,3,1,17,0,1,7,168
+7,Mobile Phone,3,27,Debit Card,Male,3,2,Laptop & Accessory,2,Single,2,0,12,5,5,7,153
+10,Mobile Phone,1,6,COD,Female,2,3,Fashion,2,Single,5,0,17,1,1,2,175
+0,Mobile Phone,3,34,E wallet,Male,3,3,Laptop & Accessory,4,Divorced,2,0,20,1,1,4,163
+8,Phone,1,31,UPI,Male,2,4,Laptop & Accessory,2,Single,5,0,14,0,1,2,137
+4,Mobile Phone,3,12,Credit Card,Male,3,2,Laptop & Accessory,2,Married,5,0,22,3,5,7,155
+10,Mobile Phone,3,8,E wallet,Male,3,3,Laptop & Accessory,3,Divorced,5,1,11,0,1,0,196
+0,Phone,3,28,COD,Male,2,3,Mobile Phone,3,Single,2,0,11,1,1,2,134
+27,Mobile Phone,2,25,Credit Card,Male,2,3,Fashion,4,Divorced,3,0,15,3,7,1,207
+23,Phone,1,34,CC,Male,3,2,Mobile Phone,3,Divorced,2,1,11,3,3,8,132
+13,Computer,3,11,Debit Card,Male,2,4,Fashion,5,Divorced,6,1,21,0,1,12,205
+16,Computer,3,21,Debit Card,Male,2,4,Laptop & Accessory,2,Divorced,4,0,18,0,2,2,168
+8,Computer,1,8,Debit Card,Female,3,3,Laptop & Accessory,5,Married,3,0,11,0,1,0,151
+9,Computer,3,14,Debit Card,Male,3,4,Fashion,5,Single,2,0,15,0,1,9,176
+7,Phone,1,8,Credit Card,Female,2,4,Mobile Phone,5,Single,2,0,11,1,1,3,144
+13,Computer,1,8,Credit Card,Female,2,1,Laptop & Accessory,4,Divorced,2,0,24,0,3,7,142
+15,Mobile Phone,1,6,Debit Card,Female,2,4,Laptop & Accessory,2,Divorced,10,1,13,0,1,2,161
+5,Phone,3,19,Debit Card,Male,3,3,Laptop & Accessory,2,Married,3,0,11,0,1,3,144
+5,Computer,1,6,Debit Card,Male,3,3,Mobile Phone,2,Married,1,0,12,0,1,2,123
+10,Computer,3,25,Credit Card,Male,2,3,Fashion,4,Single,2,1,13,0,1,9,176
+4,Mobile Phone,1,18,Credit Card,Female,2,3,Laptop & Accessory,2,Divorced,1,1,11,0,8,5,159
+9,Computer,3,14,COD,Male,2,3,Laptop & Accessory,2,Married,5,0,13,1,1,7,151
+19,Mobile Phone,1,13,Credit Card,Male,3,3,Fashion,3,Married,7,0,13,0,1,7,208
+0,Phone,1,20,UPI,Male,2,4,Mobile Phone,4,Married,2,1,24,1,1,2,137
+0,Phone,1,21,UPI,Male,2,3,Laptop & Accessory,3,Married,8,0,14,0,1,0,148
+0,Computer,1,14,Debit Card,Male,2,5,Mobile Phone,3,Divorced,2,0,19,1,1,2,146
+13,Computer,3,6,UPI,Male,2,3,Laptop & Accessory,3,Single,4,1,14,0,1,0,147
+6,Computer,3,13,Debit Card,Female,1,3,Laptop & Accessory,4,Divorced,1,0,17,1,1,2,143
+2,Computer,1,16,Debit Card,Female,3,3,Mobile Phone,4,Married,1,0,14,1,1,1,133
+15,Phone,1,35,Credit Card,Male,2,5,Laptop & Accessory,2,Single,5,0,19,1,1,0,143
+14,Phone,1,18,Debit Card,Male,2,3,Mobile Phone,2,Divorced,4,1,11,1,1,0,148
+10,Mobile Phone,1,31,Credit Card,Female,2,4,Laptop & Accessory,2,Married,8,0,13,0,1,3,157
+7,Mobile Phone,3,15,Debit Card,Female,3,3,Laptop & Accessory,3,Divorced,2,0,20,1,1,3,157
+0,Mobile Phone,3,29,Debit Card,Female,2,4,Fashion,5,Divorced,2,0,13,0,3,10,173
+15,Mobile Phone,3,10,E wallet,Male,2,3,Laptop & Accessory,5,Single,8,0,13,1,1,5,152
+3,Mobile Phone,3,16,E wallet,Male,3,4,Laptop & Accessory,3,Divorced,2,0,18,1,1,4,166
+13,Computer,3,8,Credit Card,Male,3,3,Laptop & Accessory,4,Divorced,6,0,12,1,1,0,143
+17,Phone,1,35,UPI,Male,2,3,Laptop & Accessory,2,Single,2,0,25,1,1,17,145
+19,Mobile Phone,1,8,COD,Male,2,3,Laptop & Accessory,2,Married,3,0,11,1,1,4,174
+19,Phone,2,6,Debit Card,Female,2,3,Mobile Phone,5,Single,7,0,12,3,5,7,134
+15,Mobile Phone,3,11,Debit Card,Male,3,3,Fashion,4,Single,10,1,19,5,7,7,184
+13,Computer,1,22,Debit Card,Male,3,3,Mobile Phone,3,Married,10,0,16,1,1,0,135
+0,Phone,1,25,Credit Card,Male,3,3,Mobile Phone,2,Divorced,4,0,11,1,1,2,137
+21,Mobile Phone,1,10,Debit Card,Male,2,3,Fashion,2,Single,2,0,11,1,1,8,179
+0,Computer,3,24,E wallet,Female,3,3,Laptop & Accessory,3,Divorced,1,1,18,3,3,2,146
+0,Phone,1,8,Credit Card,Male,2,4,Mobile Phone,2,Single,1,0,12,0,1,1,139
+10,Phone,1,17,Credit Card,Female,3,3,Mobile Phone,3,Single,5,0,18,0,1,2,136
+2,Mobile Phone,2,23,UPI,Male,2,4,Fashion,5,Single,2,0,13,0,1,9,180
+3,Phone,3,13,E wallet,Female,3,3,Laptop & Accessory,5,Married,8,0,14,1,1,2,148
+20,Phone,1,6,COD,Male,3,3,Mobile Phone,2,Divorced,8,0,12,1,1,2,134
+0,Phone,3,10,Credit Card,Female,2,3,Laptop & Accessory,3,Divorced,2,1,12,1,1,3,142
+18,Mobile Phone,1,26,Credit Card,Male,3,5,Fashion,5,Married,3,1,18,0,1,7,209
+18,Mobile Phone,1,35,Cash on Delivery,Male,2,3,Fashion,1,Divorced,5,1,18,1,1,2,194
+22,Mobile Phone,1,11,COD,Male,3,3,Laptop & Accessory,3,Divorced,3,0,14,0,1,2,167
+0,Computer,3,19,COD,Female,2,3,Laptop & Accessory,4,Single,6,0,11,0,1,0,158
+12,Mobile Phone,1,12,Debit Card,Female,2,3,Fashion,4,Single,5,0,18,0,2,2,184
+0,Computer,1,9,Debit Card,Female,2,3,Mobile Phone,3,Single,2,0,12,6,7,7,141
+13,Mobile Phone,3,15,Credit Card,Male,2,3,Laptop & Accessory,5,Married,1,0,12,2,7,1,155
+5,Mobile Phone,1,11,Debit Card,Female,3,4,Laptop & Accessory,4,Married,4,0,12,1,2,5,159
+7,Mobile Phone,1,6,Debit Card,Male,2,3,Laptop & Accessory,1,Married,10,0,17,1,2,1,155
+9,Mobile Phone,3,6,Debit Card,Female,3,3,Laptop & Accessory,3,Single,7,0,13,1,1,0,168
+2,Phone,1,9,Credit Card,Male,2,3,Mobile Phone,5,Single,2,1,18,0,1,5,147
+7,Computer,1,16,COD,Male,3,4,Laptop & Accessory,3,Married,2,0,14,2,7,7,151
+18,Computer,3,32,E wallet,Male,2,4,Laptop & Accessory,5,Married,2,0,15,0,4,5,144
+0,Phone,1,25,UPI,Male,3,4,Mobile Phone,5,Married,2,0,11,0,1,7,141
+12,Computer,1,10,Credit Card,Female,2,3,Laptop & Accessory,3,Single,1,0,13,3,3,8,150
+0,Phone,1,14,Credit Card,Female,2,1,Mobile Phone,3,Married,8,0,17,0,1,2,135
+7,Mobile Phone,1,9,Debit Card,Female,3,3,Laptop & Accessory,4,Married,2,0,12,7,7,9,154
+6,Mobile Phone,3,8,Credit Card,Male,3,3,Laptop & Accessory,1,Married,2,0,14,1,1,4,155
+4,Mobile Phone,3,11,Debit Card,Female,3,3,Laptop & Accessory,1,Married,2,0,11,0,1,2,155
+28,Phone,1,28,COD,Male,3,4,Mobile Phone,4,Married,6,0,12,1,1,2,135
+0,Phone,1,15,Credit Card,Male,3,1,Mobile Phone,3,Married,2,0,16,0,1,4,144
+9,Phone,3,8,Debit Card,Female,2,3,Laptop & Accessory,1,Single,4,0,15,3,6,7,145
+5,Computer,1,16,Debit Card,Male,2,3,Mobile Phone,3,Married,7,0,13,0,1,3,134
+8,Mobile Phone,1,33,Debit Card,Male,2,3,Laptop & Accessory,3,Married,3,0,16,0,1,7,169
+19,Mobile Phone,3,8,Debit Card,Male,3,3,Fashion,1,Married,5,1,12,0,1,3,204
+4,Computer,1,30,COD,Female,1,3,Laptop & Accessory,1,Single,3,0,20,1,1,4,152
+12,Computer,1,6,Debit Card,Male,3,3,Laptop & Accessory,1,Married,2,1,15,3,5,8,165
+5,Mobile Phone,3,25,Debit Card,Male,3,5,Fashion,3,Married,4,0,13,1,1,2,196
+2,Computer,1,6,Debit Card,Male,3,1,Laptop & Accessory,3,Single,9,1,12,0,1,2,163
+6,Computer,3,8,E wallet,Female,3,3,Laptop & Accessory,4,Single,9,0,15,0,1,7,151
+0,Mobile Phone,1,22,Debit Card,Male,2,1,Laptop & Accessory,3,Married,4,0,16,1,1,7,153
+7,Mobile Phone,3,9,Debit Card,Female,2,5,Laptop & Accessory,1,Single,6,0,12,1,2,2,160
+4,Mobile Phone,3,35,E wallet,Female,3,4,Laptop & Accessory,1,Married,2,0,14,2,5,7,155
+10,Phone,3,15,E wallet,Male,2,4,Laptop & Accessory,4,Married,2,0,14,0,1,3,142
+19,Computer,3,32,Debit Card,Male,3,4,Laptop & Accessory,4,Single,9,0,15,2,2,2,180
+7,Mobile Phone,3,14,COD,Male,3,1,Laptop & Accessory,3,Married,2,0,21,0,4,8,168
+1,Phone,1,6,Credit Card,Female,3,3,Mobile Phone,5,Married,2,0,25,1,1,2,136
+0,Phone,3,16,Credit Card,Male,2,3,Laptop & Accessory,1,Single,2,0,13,0,1,2,147
+18,Computer,3,8,Debit Card,Female,3,3,Laptop & Accessory,3,Married,5,0,22,3,5,7,152
+9,Mobile Phone,3,16,COD,Female,3,4,Laptop & Accessory,3,Married,2,1,13,1,1,7,157
+4,Phone,1,26,Debit Card,Male,2,3,Laptop & Accessory,3,Married,2,0,11,0,1,2,142
+8,Phone,1,22,UPI,Female,2,4,Laptop & Accessory,4,Married,1,1,11,1,1,2,148
+18,Mobile Phone,1,31,Debit Card,Female,3,4,Laptop & Accessory,1,Married,1,0,13,0,3,8,159
+4,Mobile Phone,3,16,Credit Card,Female,2,3,Laptop & Accessory,1,Married,3,1,11,0,1,4,166
+6,Mobile Phone,3,16,E wallet,Male,2,3,Laptop & Accessory,3,Single,2,0,14,0,1,9,155
+7,Computer,1,28,UPI,Male,2,4,Laptop & Accessory,1,Married,2,1,15,3,6,11,157
+5,Computer,1,21,Credit Card,Female,2,3,Laptop & Accessory,1,Married,6,0,18,0,1,2,167
+5,Mobile Phone,1,11,Debit Card,Male,2,4,Laptop & Accessory,1,Single,9,0,24,0,1,0,197
+0,Phone,1,6,Debit Card,Male,2,4,Laptop & Accessory,3,Single,2,0,12,1,1,2,146
+11,Computer,1,12,Debit Card,Male,3,4,Laptop & Accessory,3,Married,3,0,11,2,7,7,153
+0,Phone,1,6,Debit Card,Male,3,3,Mobile Phone,3,Single,1,0,12,0,1,2,134
+12,Phone,1,30,Debit Card,Male,2,3,Laptop & Accessory,1,Single,8,0,13,1,1,7,141
+14,Mobile Phone,3,9,Debit Card,Male,2,4,Laptop & Accessory,4,Married,3,0,11,0,1,4,189
+13,Computer,3,6,Debit Card,Male,3,3,Laptop & Accessory,3,Married,8,0,12,1,1,1,167
+8,Computer,1,24,Debit Card,Male,3,3,Laptop & Accessory,3,Married,2,1,14,1,1,2,157
+4,Computer,1,11,Credit Card,Male,3,3,Laptop & Accessory,5,Single,1,0,19,0,1,7,199
+0,Mobile Phone,1,10,Debit Card,Male,2,1,Laptop & Accessory,4,Married,2,1,20,1,1,3,161
+22,Computer,1,14,Debit Card,Male,3,4,Laptop & Accessory,4,Married,2,0,23,0,1,7,151
+7,Phone,1,25,CC,Male,3,3,Mobile Phone,1,Married,1,0,11,0,1,2,127
+15,Mobile Phone,3,14,E wallet,Male,2,3,Laptop & Accessory,4,Married,1,0,11,2,4,2,168
+6,Computer,3,6,Debit Card,Female,2,1,Laptop & Accessory,5,Married,3,0,19,0,1,3,154
+3,Computer,1,6,Credit Card,Female,2,3,Laptop & Accessory,1,Single,2,0,23,1,3,7,140
+0,Phone,3,29,E wallet,Female,2,4,Laptop & Accessory,1,Married,8,1,19,0,1,0,142
+30,Computer,3,6,Debit Card,Female,2,4,Laptop & Accessory,3,Single,8,0,11,1,1,3,155
+3,Phone,1,8,Debit Card,Male,4,4,Laptop & Accessory,1,Married,2,0,19,3,10,8,142
+3,Mobile Phone,3,10,Credit Card,Female,3,4,Laptop & Accessory,4,Married,2,1,12,2,2,7,152
+5,Mobile Phone,3,12,Credit Card,Male,2,3,Laptop & Accessory,3,Single,2,0,16,5,5,7,150
+7,Phone,1,12,UPI,Female,2,3,Laptop & Accessory,3,Single,2,0,14,0,2,10,148
+0,Mobile Phone,3,11,E wallet,Male,2,4,Laptop & Accessory,3,Single,2,1,11,0,1,3,157
+0,Computer,1,13,Debit Card,Male,3,5,Laptop & Accessory,3,Single,2,1,24,1,1,6,161
+9,Phone,1,12,Credit Card,Male,2,3,Laptop & Accessory,4,Married,7,0,20,0,1,1,149
+14,Computer,1,14,Debit Card,Male,2,5,Fashion,1,Single,3,0,15,1,1,3,207
+0,Mobile Phone,3,34,Debit Card,Male,2,4,Laptop & Accessory,3,Married,3,0,18,1,2,2,186
+3,Mobile Phone,2,15,UPI,Male,2,3,Laptop & Accessory,1,Married,1,1,19,4,4,7,163
+13,Computer,1,32,Credit Card,Female,2,3,Laptop & Accessory,4,Married,2,0,11,0,2,13,156
+2,Computer,1,6,COD,Male,2,3,Laptop & Accessory,3,Married,2,0,13,0,1,9,143
+18,Mobile Phone,3,10,Debit Card,Female,1,3,Laptop & Accessory,5,Married,5,1,11,0,1,3,150
+0,Mobile Phone,1,8,Debit Card,Male,2,4,Mobile Phone,1,Single,2,0,22,1,1,0,111
+26,Phone,1,19,Credit Card,Female,2,1,Laptop & Accessory,5,Married,2,0,11,1,1,3,145
+7,Computer,1,8,Debit Card,Male,2,4,Laptop & Accessory,3,Married,2,0,17,0,1,9,195
+0,Mobile Phone,1,29,Debit Card,Male,2,4,Laptop & Accessory,3,Married,4,1,13,1,1,1,159
+8,Computer,1,8,Credit Card,Female,2,3,Laptop & Accessory,4,Single,6,0,11,0,1,2,144
+0,Computer,1,6,COD,Male,2,4,Laptop & Accessory,5,Married,6,0,19,2,2,0,143
+18,Computer,3,12,Credit Card,Female,2,4,Fashion,1,Single,7,0,12,5,12,8,189
+27,Mobile Phone,3,9,E wallet,Female,2,3,Laptop & Accessory,5,Married,3,0,14,1,1,5,159
+9,Phone,1,12,Debit Card,Male,2,3,Mobile Phone,1,Married,1,0,11,1,10,11,132
+2,Mobile Phone,3,9,Credit Card,Female,2,3,Laptop & Accessory,3,Married,5,1,18,1,1,0,152
+6,Computer,3,16,E wallet,Male,2,4,Laptop & Accessory,1,Single,4,0,14,1,1,1,147
+16,Computer,1,16,Debit Card,Female,2,4,Laptop & Accessory,3,Married,2,0,11,1,1,0,153
+0,Computer,3,6,E wallet,Male,3,3,Laptop & Accessory,4,Married,1,1,13,0,1,4,163
+27,Computer,1,26,Debit Card,Female,2,3,Laptop & Accessory,3,Single,4,0,12,0,1,3,149
+18,Phone,1,14,UPI,Male,3,3,Laptop & Accessory,1,Married,10,0,14,8,9,8,137
+13,Mobile Phone,3,6,Credit Card,Male,2,5,Laptop & Accessory,1,Married,3,1,22,1,1,2,175
+3,Computer,3,31,COD,Female,2,3,Laptop & Accessory,3,Married,8,1,12,2,2,2,147
+0,Mobile Phone,3,6,Debit Card,Male,2,3,Laptop & Accessory,3,Married,2,0,17,0,7,7,153
+9,Computer,3,9,Credit Card,Male,2,4,Fashion,1,Married,5,0,11,0,1,12,197
+10,Phone,1,16,CC,Female,3,3,Mobile Phone,5,Married,7,0,20,1,1,3,135
+23,Mobile Phone,1,16,Cash on Delivery,Male,3,4,Fashion,1,Single,7,0,15,1,1,3,205
+13,Phone,1,8,CC,Female,3,4,Laptop & Accessory,3,Married,7,0,22,1,1,0,134
+7,Computer,3,10,E wallet,Female,3,3,Laptop & Accessory,3,Married,10,0,15,0,1,2,165
+0,Phone,3,10,Debit Card,Female,3,4,Laptop & Accessory,1,Single,2,1,11,0,1,3,145
+10,Computer,1,31,Credit Card,Female,3,3,Laptop & Accessory,3,Married,4,1,15,4,10,7,144
+3,Computer,3,28,UPI,Female,3,3,Fashion,5,Married,1,0,11,3,7,8,184
+27,Phone,1,5,Debit Card,Female,2,3,Laptop & Accessory,3,Single,8,0,11,0,1,0,138
+0,Phone,1,16,CC,Male,2,5,Mobile Phone,1,Married,8,0,13,0,1,3,134
+8,Mobile Phone,1,22,Debit Card,Male,3,3,Fashion,3,Married,5,1,12,0,1,0,176
+0,Computer,1,10,COD,Male,3,4,Mobile Phone,3,Single,6,0,16,0,1,2,139
+21,Phone,3,8,E wallet,Female,2,3,Laptop & Accessory,1,Married,3,0,14,6,6,7,141
+2,Phone,1,25,COD,Male,2,3,Laptop & Accessory,1,Married,5,0,12,1,1,2,143
+11,Mobile Phone,1,16,Credit Card,Female,3,3,Laptop & Accessory,3,Married,4,0,19,0,1,0,198
+10,Mobile Phone,3,8,E wallet,Male,3,3,Laptop & Accessory,3,Married,5,1,11,0,1,0,196
+5,Mobile Phone,1,15,Debit Card,Female,3,3,Laptop & Accessory,1,Married,2,1,12,1,1,5,163
+27,Mobile Phone,2,25,Credit Card,Male,2,3,Fashion,4,Married,3,0,15,2,7,1,207
+9,Mobile Phone,1,15,Credit Card,Male,2,4,Laptop & Accessory,4,Married,3,1,11,0,1,2,188
+0,Computer,1,9,Debit Card,Male,3,3,Mobile Phone,5,Single,2,1,11,5,9,7,133
+21,Mobile Phone,3,8,E wallet,Male,2,1,Laptop & Accessory,4,Married,4,0,12,0,2,2,181
+0,Computer,3,9,Credit Card,Female,3,1,Laptop & Accessory,1,Married,2,1,20,1,1,4,146
+7,Mobile Phone,1,15,Credit Card,Female,2,4,Fashion,4,Single,2,0,14,4,7,7,186
+20,Mobile Phone,3,20,E wallet,Male,2,3,Laptop & Accessory,5,Single,3,0,12,1,1,7,150
+13,Computer,3,11,Debit Card,Male,2,4,Fashion,5,Married,6,1,21,0,1,12,205
+11,Mobile Phone,1,6,Debit Card,Female,2,3,Fashion,3,Single,5,1,14,0,1,0,179
+17,Computer,1,30,Credit Card,Male,2,5,Mobile Phone,3,Single,3,0,14,0,1,4,137
+18,Mobile Phone,3,8,COD,Male,2,5,Laptop & Accessory,3,Single,1,0,13,1,3,1,166
+7,Mobile Phone,3,8,UPI,Male,2,3,Laptop & Accessory,1,Single,2,0,22,0,1,4,163
+3,Mobile Phone,1,8,Credit Card,Female,2,4,Laptop & Accessory,1,Single,6,1,24,1,1,0,169
+18,Mobile Phone,3,8,Credit Card,Male,2,3,Laptop & Accessory,1,Single,5,0,16,1,7,3,152
+7,Phone,2,9,UPI,Male,2,3,Mobile Phone,1,Married,1,0,19,1,1,2,137
+9,Mobile Phone,3,6,Debit Card,Male,2,3,Laptop & Accessory,1,Married,2,1,14,3,4,11,162
+18,Mobile Phone,3,15,E wallet,Male,3,3,Fashion,5,Married,5,1,12,0,1,2,208
+5,Mobile Phone,1,14,Credit Card,Female,3,1,Laptop & Accessory,3,Married,6,0,12,1,1,3,152
+5,Computer,1,6,Debit Card,Male,3,3,Mobile Phone,1,Married,1,0,12,1,1,2,123
+0,Computer,1,10,Debit Card,Male,2,4,Mobile Phone,1,Married,1,0,17,0,3,4,132
+15,Mobile Phone,1,9,Debit Card,Female,3,1,Laptop & Accessory,1,Married,3,1,13,1,1,3,152
+1,Phone,3,11,Credit Card,Male,3,3,Laptop & Accessory,1,Single,2,0,14,0,1,2,149
+16,Phone,1,14,Debit Card,Female,2,3,Laptop & Accessory,4,Married,5,0,21,1,1,0,148
+20,Phone,3,8,Debit Card,Female,3,4,Mobile Phone,1,Single,2,1,18,0,1,2,133
+15,Mobile Phone,3,20,Credit Card,Female,3,4,Laptop & Accessory,3,Single,8,0,17,1,1,3,162
+30,Mobile Phone,1,11,Cash on Delivery,Female,2,4,Fashion,4,Married,3,1,13,1,1,4,206
+8,Phone,1,27,Debit Card,Female,2,3,Laptop & Accessory,1,Married,2,1,25,0,1,7,140
+22,Mobile Phone,1,14,UPI,Female,2,3,Fashion,4,Married,5,0,11,0,1,7,174
+4,Computer,3,26,E wallet,Female,2,3,Laptop & Accessory,3,Married,2,0,13,1,1,0,169
+13,Mobile Phone,3,16,E wallet,Male,3,4,Fashion,4,Married,3,0,12,0,1,0,197
+13,Computer,1,15,Credit Card,Male,2,3,Mobile Phone,4,Married,9,1,14,0,1,0,136
+0,Mobile Phone,3,6,Debit Card,Male,2,4,Fashion,3,Married,6,0,11,5,11,46,206
+18,Computer,1,10,Debit Card,Male,2,3,Laptop & Accessory,4,Married,2,0,12,1,1,8,144
+0,Phone,1,23,Credit Card,Female,2,4,Laptop & Accessory,3,Married,2,0,15,0,3,2,144
+0,Computer,1,11,Debit Card,Male,3,3,Mobile Phone,1,Single,2,0,15,0,1,0,111
+27,Mobile Phone,1,23,Cash on Delivery,Female,2,3,Fashion,3,Married,9,0,11,0,1,8,207
+0,Phone,1,17,Credit Card,Female,3,5,Laptop & Accessory,4,Married,6,0,15,1,1,0,148
+5,Computer,1,35,Credit Card,Female,3,3,Mobile Phone,3,Single,10,0,12,6,7,7,140
+9,Mobile Phone,1,18,Credit Card,Female,2,4,Fashion,1,Single,1,0,11,5,7,8,189
+0,Phone,1,6,Credit Card,Male,2,4,Mobile Phone,5,Married,2,0,16,1,1,3,140
+11,Mobile Phone,1,23,Debit Card,Female,3,4,Fashion,3,Married,1,0,18,1,1,9,188
+1,Phone,1,16,UPI,Female,2,3,Laptop & Accessory,3,Single,4,0,13,0,1,7,137
+6,Mobile Phone,1,11,Debit Card,Male,2,4,Fashion,1,Married,5,0,15,1,1,2,171
+0,Mobile Phone,3,10,Cash on Delivery,Male,2,3,Fashion,5,Single,1,1,22,2,4,7,196
+0,Computer,1,35,Credit Card,Female,2,4,Laptop & Accessory,3,Single,2,0,22,2,3,8,145
+25,Mobile Phone,1,5,Debit Card,Male,2,3,Fashion,4,Single,8,0,19,2,4,0,204
+15,Phone,1,35,Credit Card,Male,2,5,Laptop & Accessory,1,Single,5,0,19,1,1,0,143
+7,Mobile Phone,3,15,Debit Card,Female,3,3,Laptop & Accessory,3,Married,2,0,20,0,1,3,157
+3,Phone,3,35,Debit Card,Male,3,3,Laptop & Accessory,5,Married,9,0,19,1,1,3,141
+5,Computer,1,19,UPI,Female,3,4,Mobile Phone,4,Married,2,0,20,2,2,2,134
+2,Phone,1,7,Debit Card,Female,3,3,Mobile Phone,1,Married,2,0,15,1,1,2,138
+0,Computer,3,30,Debit Card,Male,3,5,Mobile Phone,1,Single,2,1,14,1,1,0,111
+7,Mobile Phone,1,21,Credit Card,Female,3,3,Fashion,1,Married,2,0,11,0,1,5,180
+0,Phone,1,13,COD,Female,2,3,Mobile Phone,3,Married,4,1,13,4,7,7,133
+0,Phone,1,13,Debit Card,Male,3,3,Laptop & Accessory,3,Married,2,0,18,0,1,1,149
+2,Phone,1,29,Credit Card,Male,3,3,Mobile Phone,5,Single,1,0,13,0,1,3,139
+19,Phone,2,7,Debit Card,Female,2,3,Mobile Phone,5,Single,7,0,12,2,5,7,134
+14,Computer,3,16,Credit Card,Male,2,5,Laptop & Accessory,4,Single,2,0,13,3,11,9,162
+11,Mobile Phone,3,8,Debit Card,Female,2,3,Laptop & Accessory,5,Married,4,0,15,0,1,7,169
+7,Mobile Phone,1,8,COD,Female,3,3,Laptop & Accessory,1,Single,2,0,11,4,4,11,167
+12,Mobile Phone,3,27,Debit Card,Male,2,4,Laptop & Accessory,1,Married,4,1,12,0,1,4,161
+9,Mobile Phone,3,22,E wallet,Female,3,4,Laptop & Accessory,5,Married,5,0,13,1,1,2,156
+0,Phone,3,15,Debit Card,Male,3,4,Mobile Phone,5,Married,4,0,12,2,2,2,144
+4,Mobile Phone,3,14,Debit Card,Male,2,3,Fashion,1,Married,2,0,18,2,9,9,208
+17,Computer,1,11,Debit Card,Male,2,4,Mobile Phone,3,Single,4,0,14,0,1,3,132
+17,Phone,1,26,Debit Card,Male,2,3,Mobile Phone,4,Single,2,0,13,1,1,3,134
+7,Phone,3,9,UPI,Male,2,5,Laptop & Accessory,5,Single,4,0,18,2,3,12,148
+15,Computer,1,15,Credit Card,Female,3,3,Mobile Phone,1,Single,2,0,13,0,5,8,137
+7,Mobile Phone,3,7,COD,Male,3,4,Fashion,3,Married,2,1,14,7,8,6,171
+15,Phone,1,8,Credit Card,Male,3,4,Mobile Phone,4,Married,5,0,14,0,1,0,148
+21,Mobile Phone,3,22,Debit Card,Female,3,3,Laptop & Accessory,3,Married,9,0,14,7,7,7,164
+7,Mobile Phone,1,7,Debit Card,Male,2,3,Laptop & Accessory,1,Married,10,0,17,0,2,1,155
+11,Mobile Phone,3,20,Debit Card,Male,3,3,Laptop & Accessory,4,Married,1,0,11,3,7,7,199
+2,Computer,1,8,Debit Card,Male,2,3,Laptop & Accessory,1,Married,2,0,19,1,1,3,189
+9,Computer,1,12,Debit Card,Male,3,1,Laptop & Accessory,5,Married,4,1,13,0,1,2,156
+10,Mobile Phone,1,25,Debit Card,Male,2,3,Laptop & Accessory,3,Married,4,0,17,0,1,2,158
+0,Mobile Phone,3,16,Credit Card,Male,2,4,Fashion,5,Married,10,0,17,0,6,0,203
+10,Phone,1,16,Credit Card,Female,3,3,Mobile Phone,4,Married,2,0,11,4,7,7,139
+13,Mobile Phone,1,22,Debit Card,Female,2,3,Fashion,1,Single,7,1,15,3,3,3,179
+0,Computer,1,8,COD,Female,2,3,Mobile Phone,1,Single,2,1,13,0,1,3,138
+2,Mobile Phone,3,16,Credit Card,Male,2,4,Laptop & Accessory,3,Single,10,0,11,1,1,4,159
+8,Computer,1,8,Credit Card,Male,3,4,Mobile Phone,1,Single,1,1,14,1,1,4,149
+14,Computer,2,10,UPI,Male,2,5,Laptop & Accessory,4,Married,7,0,19,0,1,2,164
+13,Mobile Phone,1,14,Debit Card,Female,3,3,Laptop & Accessory,5,Married,3,1,16,1,1,0,165
+8,Mobile Phone,1,33,Debit Card,Male,2,3,Laptop & Accessory,3,Married,3,0,16,1,1,7,169
+19,Mobile Phone,3,8,Debit Card,Male,3,3,Fashion,1,Married,5,1,12,0,1,3,204
+0,Mobile Phone,3,19,E wallet,Male,3,4,Laptop & Accessory,5,Married,6,1,13,1,2,2,161
+3,Computer,1,8,COD,Female,3,4,Mobile Phone,5,Single,1,0,16,0,1,7,150
+2,Computer,1,7,Debit Card,Male,3,1,Laptop & Accessory,3,Single,9,1,12,1,1,2,163
+3,Mobile Phone,3,21,E wallet,Male,3,4,Fashion,5,Married,3,0,11,1,1,7,171
+0,Mobile Phone,3,22,E wallet,Male,3,3,Fashion,3,Married,3,0,13,0,1,0,182
+16,Phone,2,8,Debit Card,Male,3,3,Mobile Phone,1,Single,1,0,13,1,1,8,135
+8,Computer,1,8,Credit Card,Male,2,3,Laptop & Accessory,1,Married,3,0,14,1,1,7,158
+0,Computer,1,15,Debit Card,Male,3,3,Laptop & Accessory,5,Married,5,0,17,0,1,7,153
+14,Mobile Phone,1,11,Debit Card,Male,2,1,Laptop & Accessory,4,Single,4,0,12,0,1,2,169
+14,Mobile Phone,3,10,E wallet,Female,2,3,Fashion,3,Married,1,1,13,5,13,5,204
+9,Mobile Phone,1,27,Credit Card,Female,3,3,Laptop & Accessory,4,Married,5,0,22,3,3,7,189
+27,Mobile Phone,1,13,Credit Card,Female,3,3,Laptop & Accessory,1,Married,5,0,15,1,1,7,169
+4,Computer,3,13,E wallet,Female,3,3,Fashion,5,Married,3,0,14,2,2,2,196
+1,Phone,1,7,Credit Card,Female,3,3,Mobile Phone,5,Married,2,0,25,1,1,2,136
+16,Computer,3,8,Debit Card,Male,3,3,Laptop & Accessory,1,Married,2,0,20,7,7,7,157
+0,Mobile Phone,3,8,E wallet,Male,2,4,Laptop & Accessory,4,Single,8,1,12,1,2,2,199
+9,Mobile Phone,3,16,Debit Card,Female,3,3,Fashion,4,Married,6,0,21,1,1,7,173
+7,Mobile Phone,3,10,Debit Card,Male,3,3,Fashion,1,Married,3,1,13,0,1,0,197
+29,Mobile Phone,3,17,E wallet,Female,2,4,Laptop & Accessory,5,Married,5,0,16,0,1,0,154
+11,Phone,1,15,Debit Card,Male,3,3,Mobile Phone,1,Married,3,0,19,0,1,3,148
+15,Mobile Phone,3,18,E wallet,Male,3,3,Laptop & Accessory,1,Married,4,1,12,1,1,0,151
+0,Phone,3,15,E wallet,Male,2,3,Laptop & Accessory,1,Single,2,0,14,1,1,7,141
+4,Mobile Phone,1,8,Credit Card,Female,2,5,Mobile Phone,1,Married,2,1,11,0,1,0,111
+13,Computer,1,17,COD,Female,3,3,Laptop & Accessory,3,Married,2,0,11,7,9,4,163
+11,Computer,1,12,Debit Card,Male,3,4,Laptop & Accessory,3,Married,3,0,11,2,7,7,153
+8,Phone,1,17,CC,Male,2,3,Mobile Phone,3,Married,8,1,11,2,2,2,127
+0,Phone,3,14,UPI,Female,2,3,Laptop & Accessory,3,Married,1,1,22,0,1,4,149
+7,Phone,1,14,Credit Card,Male,2,1,Laptop & Accessory,3,Married,3,0,12,1,1,2,144
+1,Mobile Phone,1,13,Credit Card,Male,3,4,Mobile Phone,5,Single,4,0,12,2,2,4,155
+1,Computer,1,23,Debit Card,Female,4,6,Mobile Phone,5,Single,3,1,23,5,7,8,164
+14,Mobile Phone,3,10,E wallet,Male,3,5,Mobile Phone,3,Divorced,3,1,15,1,2,3,152
+1,Phone,1,32,Debit Card,Male,3,6,Mobile Phone,3,Single,3,0,13,2,2,2,148
+12,Mobile Phone,1,7,Debit Card,Male,4,5,Fashion,3,Single,11,1,14,1,2,1,179
+1,Mobile Phone,1,16,Credit Card,Male,4,5,Mobile Phone,3,Divorced,2,1,18,1,2,1,159
+20,Mobile Phone,1,21,Debit Card,Female,4,4,Mobile Phone,4,Divorced,11,1,19,2,5,4,175
+1,Mobile Phone,1,16,Credit Card,Female,3,4,Mobile Phone,5,Single,9,0,23,2,2,5,167
+9,Mobile Phone,3,7,E wallet,Male,4,4,Fashion,4,Divorced,3,0,14,2,2,7,198
+15,Phone,1,21,Debit Card,Male,3,4,Mobile Phone,3,Married,6,0,13,2,2,9,150
+1,Mobile Phone,1,24,COD,Male,3,4,Mobile Phone,4,Divorced,2,1,17,2,2,2,156
+1,Computer,3,7,COD,Female,4,6,Mobile Phone,5,Single,2,0,22,2,2,1,148
+27,Mobile Phone,1,20,Credit Card,Female,3,3,Laptop & Accessory,5,Married,3,0,12,2,2,4,170
+26,Mobile Phone,1,7,Debit Card,Male,4,5,Others,3,Divorced,2,0,15,2,12,10,325
+1,Phone,1,16,Credit Card,Female,3,4,Mobile Phone,4,Single,3,0,17,2,2,4,148
+1,Mobile Phone,1,30,Debit Card,Male,3,5,Laptop & Accessory,3,Divorced,5,1,14,2,2,2,184
+11,Mobile Phone,1,28,Debit Card,Male,4,3,Mobile Phone,5,Divorced,3,1,13,1,2,8,161
+9,Computer,1,9,Credit Card,Female,3,4,Laptop & Accessory,4,Single,7,0,12,2,2,3,169
+12,Mobile Phone,1,9,Debit Card,Male,3,4,Laptop & Accessory,3,Divorced,11,0,15,1,2,1,191
+12,Mobile Phone,1,36,COD,Male,3,4,Laptop & Accessory,2,Divorced,5,0,19,1,2,8,188
+1,Computer,1,7,COD,Male,3,5,Laptop & Accessory,5,Divorced,7,0,20,1,3,1,168
+1,Phone,1,12,Debit Card,Male,3,3,Mobile Phone,4,Married,3,1,17,1,3,3,148
+14,Computer,1,16,Debit Card,Male,4,5,Laptop & Accessory,2,Divorced,11,0,15,2,2,3,174
+1,Mobile Phone,1,10,COD,Female,3,4,Mobile Phone,5,Single,7,1,12,2,2,5,152
+1,Computer,3,33,E wallet,Female,3,5,Laptop & Accessory,5,Single,7,0,16,1,2,2,192
+31,Phone,1,10,Debit Card,Male,4,5,Mobile Phone,2,Divorced,5,0,18,1,2,1,147
+11,Computer,3,11,E wallet,Male,3,4,Mobile Phone,2,Married,6,0,18,2,6,9,25
+1,Phone,1,25,Credit Card,Male,3,5,Mobile Phone,2,Single,3,1,14,1,2,2,149
+6,Computer,3,33,E wallet,Male,4,4,Laptop & Accessory,2,Divorced,2,0,19,2,3,3,170
+3,Phone,1,22,Debit Card,Male,3,4,Mobile Phone,2,Single,3,0,20,1,2,6,148
+3,Mobile Phone,3,9,Credit Card,Male,4,5,Laptop & Accessory,4,Divorced,4,0,20,1,2,1,191
+5,Mobile Phone,1,30,Credit Card,Male,4,5,Laptop & Accessory,2,Divorced,2,0,22,2,8,9,181
+10,Mobile Phone,1,10,COD,Male,2,4,Laptop & Accessory,4,Single,6,0,13,7,8,8,170
+10,Computer,1,25,Debit Card,Male,3,3,Mobile Phone,2,Divorced,6,0,19,1,2,1,162
+25,Mobile Phone,1,9,Credit Card,Male,3,6,Laptop & Accessory,4,Married,7,0,19,1,2,3,180
+1,Phone,3,17,Credit Card,Female,4,5,Mobile Phone,3,Single,3,0,13,2,2,1,137
+5,Mobile Phone,1,9,Debit Card,Male,3,4,Mobile Phone,2,Married,2,1,19,2,3,3,152
+1,Mobile Phone,3,9,Debit Card,Male,4,4,Laptop & Accessory,3,Single,3,1,12,2,2,5,170
+1,Computer,3,7,E wallet,Male,4,4,Laptop & Accessory,4,Divorced,2,1,14,1,2,5,188
+28,Computer,1,27,Debit Card,Female,3,4,Laptop & Accessory,3,Single,5,0,13,2,2,4,174
+1,Phone,1,15,UPI,Male,4,6,Mobile Phone,5,Divorced,3,1,12,2,2,8,146
+4,Mobile Phone,3,12,E wallet,Female,2,5,Laptop & Accessory,3,Married,3,0,14,1,2,3,186
+15,Mobile Phone,1,13,Credit Card,Male,4,5,Laptop & Accessory,4,Single,8,1,16,2,2,3,185
+3,Computer,3,9,Debit Card,Male,4,4,Laptop & Accessory,3,Divorced,3,0,15,2,2,3,171
+11,Mobile Phone,1,13,Credit Card,Male,3,3,Laptop & Accessory,5,Married,6,1,14,3,7,8,185
+16,Mobile Phone,1,9,UPI,Male,4,5,Laptop & Accessory,2,Single,5,0,24,1,2,1,193
+14,Phone,1,17,Debit Card,Female,3,3,Mobile Phone,3,Divorced,5,1,14,1,2,8,147
+20,Computer,1,14,Credit Card,Female,2,4,Laptop & Accessory,3,Divorced,4,0,15,1,2,1,178
+1,Mobile Phone,1,7,Credit Card,Male,3,4,Mobile Phone,4,Married,3,0,12,1,2,5,163
+25,Mobile Phone,3,21,Debit Card,Female,3,4,Laptop & Accessory,2,Divorced,6,0,12,1,2,8,174
+1,Computer,3,26,E wallet,Male,4,3,Laptop & Accessory,2,Single,10,1,14,2,2,5,178
+4,Mobile Phone,3,9,COD,Male,4,4,Mobile Phone,4,Divorced,3,0,19,2,2,1,150
+1,Computer,1,11,COD,Male,3,4,Mobile Phone,2,Single,20,1,24,2,2,1,148
+15,Mobile Phone,3,7,E wallet,Male,3,3,Fashion,5,Divorced,3,0,17,2,2,8,209
+1,Mobile Phone,1,10,Credit Card,Male,4,4,Mobile Phone,5,Divorced,7,0,14,2,2,3,165
+1,Mobile Phone,1,30,Debit Card,Female,3,4,Mobile Phone,2,Married,3,0,23,2,2,3,154
+1,Mobile Phone,2,9,COD,Male,3,5,Mobile Phone,2,Single,3,0,13,2,2,1,151
+5,Mobile Phone,1,16,Debit Card,Male,3,4,Fashion,4,Married,3,0,26,2,2,9,231
+9,Mobile Phone,3,7,Credit Card,Female,4,4,Laptop & Accessory,3,Single,3,0,17,1,2,4,174
+11,Mobile Phone,1,7,Cash on Delivery,Female,3,4,Fashion,2,Single,6,0,18,2,2,3,200
+1,Mobile Phone,3,35,E wallet,Male,4,4,Laptop & Accessory,4,Divorced,3,0,21,2,2,5,188
+1,Phone,3,20,Credit Card,Male,3,4,Mobile Phone,3,Divorced,3,0,12,2,2,7,146
+8,Mobile Phone,1,7,Debit Card,Male,3,5,Mobile Phone,2,Divorced,3,1,14,1,2,4,161
+1,Phone,1,13,Credit Card,Female,4,5,Mobile Phone,3,Married,2,0,13,2,2,4,147
+17,Computer,1,16,Credit Card,Male,4,4,Laptop & Accessory,3,Married,5,1,14,3,5,8,182
+1,Mobile Phone,3,9,E wallet,Male,3,4,Mobile Phone,5,Married,2,0,12,1,2,3,155
+1,Phone,1,10,Credit Card,Male,3,5,Mobile Phone,2,Single,2,0,14,1,2,2,145
+1,Mobile Phone,1,11,Credit Card,Male,3,3,Mobile Phone,5,Divorced,4,0,17,1,2,3,153
+24,Mobile Phone,1,35,Credit Card,Male,4,3,Mobile Phone,3,Divorced,3,1,12,4,4,9,157
+1,Mobile Phone,3,10,Debit Card,Female,4,4,Laptop & Accessory,3,Single,11,0,15,2,3,1,171
+6,Computer,1,31,Debit Card,Male,4,4,Laptop & Accessory,2,Divorced,3,0,16,3,5,8,178
+1,Mobile Phone,3,33,Credit Card,Female,3,4,Laptop & Accessory,2,Single,3,0,24,1,2,5,187
+1,Mobile Phone,3,15,COD,Male,3,5,Laptop & Accessory,5,Single,8,0,18,2,2,3,178
+12,Computer,1,9,Debit Card,Female,4,2,Laptop & Accessory,5,Single,8,1,13,5,5,13,185
+1,Computer,1,16,Debit Card,Male,3,5,Mobile Phone,4,Married,3,0,12,2,2,1,152
+26,Mobile Phone,1,18,Debit Card,Female,3,4,Laptop & Accessory,3,Divorced,10,0,21,2,2,5,156
+3,Mobile Phone,1,30,Debit Card,Male,3,2,Mobile Phone,3,Divorced,3,0,25,2,2,8,152
+13,Mobile Phone,3,18,E wallet,Female,3,4,Fashion,2,Divorced,3,0,19,1,8,8,202
+7,Mobile Phone,3,7,Credit Card,Male,3,2,Laptop & Accessory,5,Married,3,0,23,1,2,9,165
+5,Phone,1,18,Debit Card,Male,3,4,Mobile Phone,2,Divorced,5,1,20,2,2,3,149
+2,Mobile Phone,3,12,Credit Card,Male,4,4,Laptop & Accessory,2,Single,3,0,15,2,2,3,174
+1,Phone,3,9,Credit Card,Female,3,5,Mobile Phone,3,Single,3,0,14,1,2,3,145
+2,Phone,1,16,Credit Card,Female,4,4,Mobile Phone,3,Married,7,0,19,3,3,3,149
+1,Phone,1,11,Debit Card,Female,4,4,Mobile Phone,3,Single,3,0,20,2,2,1,148
+22,Phone,1,27,Credit Card,Male,3,4,Mobile Phone,3,Divorced,6,0,18,1,2,1,148
+1,Phone,3,26,E wallet,Male,3,5,Mobile Phone,4,Divorced,3,1,19,1,2,1,149
+1,Computer,3,7,Credit Card,Male,3,5,Laptop & Accessory,5,Single,3,0,13,2,2,8,168
+1,Phone,3,28,UPI,Male,3,5,Mobile Phone,4,Single,3,1,14,1,2,1,146
+14,Computer,1,16,Credit Card,Male,3,4,Mobile Phone,4,Married,10,1,15,1,2,1,161
+7,Mobile Phone,1,7,Debit Card,Female,3,5,Laptop & Accessory,2,Single,2,0,15,1,2,5,194
+21,Mobile Phone,1,9,COD,Male,3,4,Mobile Phone,3,Single,6,0,25,2,2,1,150
+12,Computer,3,17,COD,Female,3,4,Laptop & Accessory,2,Single,3,1,14,1,2,4,182
+1,Phone,1,17,Debit Card,Female,4,5,Mobile Phone,5,Single,8,1,21,2,2,1,149
+7,Computer,1,7,UPI,Female,3,2,Laptop & Accessory,4,Divorced,3,1,14,1,2,3,180
+21,Mobile Phone,3,11,Debit Card,Female,3,4,Laptop & Accessory,2,Single,3,1,18,2,2,8,167
+1,Mobile Phone,1,9,Debit Card,Female,3,4,Laptop & Accessory,2,Divorced,2,0,19,1,3,3,167
+16,Mobile Phone,3,9,E wallet,Female,3,6,Others,2,Divorced,3,0,16,6,7,10,323
+2,Phone,1,22,Debit Card,Male,3,4,Mobile Phone,3,Married,3,0,17,3,3,3,147
+1,Phone,1,28,Credit Card,Male,3,4,Mobile Phone,3,Married,3,0,21,2,2,1,149
+1,Computer,1,5,Credit Card,Male,3,5,Mobile Phone,4,Married,3,0,16,1,2,1,151
+7,Computer,3,14,Debit Card,Female,2,4,Laptop & Accessory,4,Divorced,2,0,18,2,2,3,168
+3,Mobile Phone,1,35,Debit Card,Female,4,4,Mobile Phone,2,Married,6,0,23,1,2,8,150
+3,Computer,1,17,Debit Card,Female,4,4,Mobile Phone,4,Married,2,0,15,2,2,2,158
+5,Computer,1,13,Debit Card,Male,3,5,Mobile Phone,3,Married,3,1,15,2,2,3,152
+1,Mobile Phone,3,30,Debit Card,Female,3,5,Fashion,5,Divorced,3,0,14,1,4,11,198
+3,Mobile Phone,1,13,Credit Card,Female,3,4,Mobile Phone,2,Divorced,3,0,14,1,2,9,156
+7,Mobile Phone,2,9,UPI,Male,3,4,Mobile Phone,3,Divorced,3,0,14,1,2,5,161
+7,Computer,3,32,Credit Card,Female,3,4,Laptop & Accessory,3,Divorced,3,0,13,1,2,2,170
+10,Mobile Phone,1,13,Debit Card,Male,3,6,Mobile Phone,3,Married,3,0,15,1,2,8,152
+4,Mobile Phone,1,14,Debit Card,Male,3,4,Laptop & Accessory,3,Married,3,0,14,9,9,10,160
+18,Mobile Phone,1,36,UPI,Male,3,4,Laptop & Accessory,2,Single,3,0,26,2,2,18,170
+6,Computer,1,20,UPI,Female,4,5,Mobile Phone,4,Divorced,3,0,21,1,3,3,152
+7,Mobile Phone,1,16,Credit Card,Male,3,4,Mobile Phone,2,Divorced,2,0,14,2,5,11,153
+3,Mobile Phone,1,7,Debit Card,Female,4,4,Mobile Phone,2,Married,3,0,16,1,2,3,163
+31,Mobile Phone,3,10,Debit Card,Female,3,5,Laptop & Accessory,2,Single,7,0,18,1,2,6,177
+1,Mobile Phone,1,32,Debit Card,Female,3,2,Mobile Phone,2,Single,3,1,13,2,2,2,155
+9,Mobile Phone,1,13,Debit Card,Male,4,4,Mobile Phone,3,Divorced,2,1,15,2,3,3,160
+10,Mobile Phone,1,9,Debit Card,Female,3,4,Laptop & Accessory,4,Single,11,1,12,5,6,13,179
+2,Computer,1,9,Debit Card,Male,3,5,Mobile Phone,2,Divorced,3,1,13,3,3,3,164
+13,Mobile Phone,1,25,Debit Card,Male,3,4,Laptop & Accessory,3,Single,2,0,12,1,2,8,170
+1,Computer,3,7,Debit Card,Female,3,4,Mobile Phone,4,Single,3,1,12,2,3,3,148
+14,Phone,1,7,Debit Card,Male,3,4,Mobile Phone,4,Divorced,5,0,23,2,2,4,149
+10,Computer,3,14,E wallet,Female,3,2,Laptop & Accessory,5,Divorced,4,0,17,6,7,14,171
+1,Mobile Phone,3,18,Credit Card,Female,4,2,Mobile Phone,2,Divorced,10,0,15,2,2,1,150
+8,Mobile Phone,1,9,COD,Female,4,4,Laptop & Accessory,2,Single,3,0,12,2,5,12,192
+2,Mobile Phone,3,33,Debit Card,Male,3,5,Laptop & Accessory,5,Divorced,3,0,12,2,2,5,172
+1,Computer,1,35,Debit Card,Male,4,5,Laptop & Accessory,5,Single,5,0,21,1,2,4,168
+1,Phone,1,18,Debit Card,Male,4,4,Mobile Phone,5,Divorced,2,0,15,2,2,5,146
+10,Mobile Phone,1,11,Debit Card,Male,3,5,Laptop & Accessory,2,Single,3,0,17,2,2,9,183
+11,Computer,1,12,COD,Male,3,2,Mobile Phone,3,Single,2,0,15,2,2,4,160
+3,Computer,1,9,Debit Card,Female,3,5,Mobile Phone,5,Single,4,1,24,1,2,1,161
+18,Computer,1,12,Debit Card,Male,3,5,Mobile Phone,3,Single,5,0,15,1,2,4,157
+16,Computer,1,16,Credit Card,Female,4,4,Mobile Phone,1,Single,3,0,14,5,6,9,162
+4,Computer,1,14,COD,Male,4,4,Mobile Phone,3,Married,3,0,14,1,2,1,138
+51,Mobile Phone,1,7,Debit Card,Male,4,2,Laptop & Accessory,3,Divorced,2,0,25,2,3,9,174
+9,Phone,3,14,Debit Card,Male,4,4,Mobile Phone,3,Divorced,3,0,14,2,2,1,149
+7,Mobile Phone,1,11,Credit Card,Female,3,5,Mobile Phone,4,Divorced,10,0,12,1,2,3,163
+2,Mobile Phone,1,36,Debit Card,Male,4,6,Laptop & Accessory,4,Divorced,3,0,15,2,2,8,190
+16,Mobile Phone,1,9,Credit Card,Male,4,5,Mobile Phone,4,Married,6,0,15,2,2,1,173
+9,Phone,3,7,Debit Card,Female,4,5,Mobile Phone,3,Married,2,0,24,3,5,3,149
+10,Mobile Phone,3,9,Debit Card,Male,4,4,Mobile Phone,1,Single,5,1,22,1,2,3,151
+9,Phone,1,7,Credit Card,Male,4,5,Mobile Phone,5,Single,3,0,20,1,2,3,150
+14,Mobile Phone,3,21,Debit Card,Female,3,4,Laptop & Accessory,5,Married,3,0,16,1,2,3,171
+17,Mobile Phone,1,34,COD,Male,3,2,Mobile Phone,4,Married,7,0,13,2,2,3,174
+1,Phone,1,31,Credit Card,Male,3,4,Mobile Phone,4,Married,3,1,18,1,2,1,149
+4,Phone,1,14,Credit Card,Male,3,5,Mobile Phone,4,Married,3,0,13,1,2,2,146
+19,Computer,3,33,E wallet,Male,3,5,Laptop & Accessory,5,Married,3,0,16,1,5,6,169
+1,Computer,3,19,UPI,Male,3,4,Laptop & Accessory,1,Single,5,1,25,4,7,8,171
+5,Mobile Phone,3,12,Debit Card,Female,4,4,Laptop & Accessory,1,Married,3,0,12,1,2,3,180
+23,Mobile Phone,1,23,Credit Card,Female,4,4,Mobile Phone,5,Married,6,1,17,2,3,3,151
+15,Mobile Phone,3,30,Debit Card,Male,4,4,Fashion,3,Single,5,1,17,1,2,3,196
+1,Phone,1,9,Debit Card,Male,4,4,Mobile Phone,4,Single,3,0,13,2,2,1,139
+1,Computer,1,14,Credit Card,Male,4,4,Mobile Phone,1,Single,3,0,21,6,6,8,151
+8,Mobile Phone,1,26,Debit Card,Female,3,5,Mobile Phone,1,Married,3,0,13,4,9,8,154
+1,Phone,3,14,Debit Card,Male,3,4,Mobile Phone,1,Married,3,1,22,2,2,3,148
+1,Mobile Phone,1,16,Credit Card,Male,4,2,Mobile Phone,3,Married,3,0,17,1,2,5,169
+3,Mobile Phone,1,16,Credit Card,Female,3,4,Mobile Phone,3,Married,11,0,18,2,2,3,155
+3,Computer,1,7,Debit Card,Male,4,2,Laptop & Accessory,3,Single,10,1,13,1,2,3,188
+1,Mobile Phone,3,23,E wallet,Male,4,4,Fashion,3,Married,4,0,14,2,2,1,207
+12,Mobile Phone,1,25,Credit Card,Male,3,6,Laptop & Accessory,1,Married,5,1,17,1,2,1,183
+16,Mobile Phone,1,19,Credit Card,Male,3,4,Mobile Phone,4,Married,10,0,23,2,2,5,153
+7,Computer,1,11,COD,Male,3,4,Laptop & Accessory,4,Married,7,0,16,1,2,8,156
+10,Mobile Phone,1,17,Debit Card,Male,3,4,Fashion,5,Married,9,1,14,2,6,8,208
+11,Mobile Phone,2,15,UPI,Male,3,4,Laptop & Accessory,4,Married,4,0,14,5,5,8,166
+9,Computer,1,9,Credit Card,Male,3,4,Laptop & Accessory,1,Married,4,0,15,1,2,8,183
+1,Phone,2,27,Credit Card,Female,4,4,Mobile Phone,4,Married,2,1,12,1,2,5,146
+8,Mobile Phone,3,15,Cash on Delivery,Male,4,2,Laptop & Accessory,3,Married,3,0,22,1,5,9,193
+31,Computer,3,9,Credit Card,Male,3,4,Grocery,4,Married,6,0,23,11,15,15,25
+14,Mobile Phone,1,19,Debit Card,Female,3,4,Laptop & Accessory,5,Married,4,0,13,8,8,8,169
+28,Mobile Phone,1,14,Credit Card,Female,4,4,Laptop & Accessory,1,Married,6,0,16,2,2,8,194
+10,Mobile Phone,1,9,UPI,Female,4,4,Laptop & Accessory,4,Married,6,1,23,1,2,1,195
+16,Computer,1,17,COD,Male,3,4,Mobile Phone,3,Married,5,0,23,2,4,4,154
+2,Computer,2,7,Debit Card,Male,3,4,Mobile Phone,1,Married,3,0,16,1,3,3,152
+1,Computer,1,31,Debit Card,Male,4,5,Mobile Phone,1,Single,3,1,25,2,2,1,149
+1,Computer,1,22,Debit Card,Female,4,5,Mobile Phone,5,Married,2,0,20,8,8,4,173
+9,Mobile Phone,1,23,UPI,Female,3,5,Laptop & Accessory,4,Married,2,1,12,2,2,3,173
+19,Mobile Phone,1,32,Debit Card,Female,4,5,Laptop & Accessory,1,Married,2,0,14,1,4,9,184
+10,Computer,2,9,UPI,Male,4,5,Laptop & Accessory,1,Single,3,0,22,2,2,9,164
+1,Mobile Phone,1,7,Debit Card,Female,3,5,Mobile Phone,3,Married,3,1,14,1,2,1,154
+15,Mobile Phone,3,15,E wallet,Female,3,4,Laptop & Accessory,4,Married,7,0,22,2,2,5,169
+5,Mobile Phone,1,11,Credit Card,Female,4,2,Mobile Phone,3,Married,10,0,13,3,3,3,165
+1,Computer,1,13,UPI,Male,4,2,Mobile Phone,1,Married,2,0,19,3,8,8,150
+2,Computer,3,7,Debit Card,Male,3,5,Laptop & Accessory,1,Married,3,1,13,1,2,8,193
+28,Mobile Phone,1,16,Debit Card,Female,4,4,Laptop & Accessory,3,Married,5,0,12,1,3,4,154
+28,Mobile Phone,1,17,Credit Card,Female,4,4,Laptop & Accessory,5,Single,8,1,20,1,2,5,169
+7,Computer,1,7,Credit Card,Male,3,5,Mobile Phone,3,Married,3,0,13,1,2,1,145
+12,Mobile Phone,3,7,Debit Card,Male,3,4,Laptop & Accessory,4,Married,2,0,16,5,6,9,169
+16,Mobile Phone,1,25,Debit Card,Male,3,4,Laptop & Accessory,5,Married,8,1,18,1,2,3,179
+15,Mobile Phone,1,7,Debit Card,Male,4,4,Mobile Phone,1,Married,5,0,23,1,2,1,153
+13,Mobile Phone,1,31,Debit Card,Male,3,4,Laptop & Accessory,1,Single,9,0,14,2,2,8,166
+20,Phone,1,14,COD,Male,4,4,Mobile Phone,3,Married,10,0,12,7,10,9,148
+14,Computer,3,7,Debit Card,Male,4,4,Laptop & Accessory,3,Married,9,0,13,2,2,2,192
+23,Computer,3,9,Credit Card,Male,4,5,Laptop & Accessory,4,Married,4,0,15,2,2,9,179
+31,Mobile Phone,1,10,Credit Card,Female,3,2,Mobile Phone,5,Married,6,1,21,1,2,1,152
+1,Computer,1,23,Debit Card,Female,4,6,Mobile Phone,5,Single,3,1,23,1,7,8,164
+3,Phone,3,12,COD,Male,3,4,Laptop & Accessory,1,Married,5,0,15,1,2,1,146
+1,Phone,1,7,Credit Card,Male,4,4,Mobile Phone,1,Married,4,1,17,1,3,1,148
+4,Computer,1,7,Credit Card,Female,3,4,Laptop & Accessory,1,Single,3,0,24,2,4,8,165
+20,Computer,3,12,E wallet,Male,4,4,Laptop & Accessory,1,Single,6,1,22,2,2,9,183
+12,Mobile Phone,1,7,Debit Card,Male,4,5,Fashion,3,Single,11,1,14,1,2,1,179
+11,Mobile Phone,1,7,Debit Card,Male,3,5,Laptop & Accessory,3,Married,3,0,19,1,2,8,185
+12,Computer,1,36,Debit Card,Female,3,4,Laptop & Accessory,1,Single,3,0,12,7,10,10,149
+10,Computer,1,18,Debit Card,Male,4,5,Laptop & Accessory,4,Single,3,0,14,2,2,4,190
+5,Mobile Phone,1,7,Credit Card,Male,3,4,Mobile Phone,4,Single,3,0,18,2,2,1,150
+18,Computer,1,30,Credit Card,Male,4,4,Laptop & Accessory,4,Married,6,0,13,1,2,3,145
+6,Mobile Phone,1,7,Debit Card,Male,4,4,Mobile Phone,5,Single,3,0,14,1,2,1,155
+8,Mobile Phone,1,13,UPI,Female,3,4,Laptop & Accessory,3,Single,3,0,15,1,3,11,173
+11,Computer,1,9,Debit Card,Male,4,5,Laptop & Accessory,1,Married,7,0,15,2,2,1,177
+1,Mobile Phone,3,12,E wallet,Male,3,5,Laptop & Accessory,3,Single,3,1,12,1,2,4,182
+1,Mobile Phone,1,22,Credit Card,Female,3,4,Mobile Phone,1,Single,3,0,16,2,2,1,154
+25,Computer,1,7,Credit Card,Female,2,5,Fashion,5,Single,5,0,21,5,13,9,200
+4,Computer,1,30,Debit Card,Male,4,6,Mobile Phone,3,Married,3,0,26,1,2,10,151
+1,Mobile Phone,3,13,Debit Card,Male,4,6,Laptop & Accessory,3,Married,6,1,19,1,8,8,187
+15,Phone,1,16,Debit Card,Male,4,4,Mobile Phone,5,Married,4,0,22,1,2,5,147
+3,Computer,1,7,COD,Male,3,4,Laptop & Accessory,3,Married,3,0,14,1,2,10,168
+25,Mobile Phone,1,14,Credit Card,Male,3,5,Laptop & Accessory,3,Married,4,0,18,2,2,1,186
+1,Phone,1,26,Credit Card,Male,4,4,Mobile Phone,1,Married,3,0,25,3,3,3,148
+15,Mobile Phone,1,21,Debit Card,Male,3,4,Mobile Phone,3,Married,6,0,13,2,2,9,150
+10,Computer,1,10,Credit Card,Male,2,4,Mobile Phone,4,Single,6,0,13,3,8,3,146
+7,Mobile Phone,1,9,Debit Card,Male,3,4,Mobile Phone,1,Single,2,0,15,2,2,3,150
+24,Mobile Phone,1,7,Credit Card,Male,3,5,Mobile Phone,3,Married,4,0,16,2,2,3,162
+27,Mobile Phone,1,20,Credit Card,Female,3,2,Laptop & Accessory,5,Married,3,0,12,2,2,4,170
+26,Mobile Phone,1,7,Debit Card,Male,4,5,Others,3,Married,2,0,15,8,12,10,325
+12,Mobile Phone,1,9,Debit Card,Male,3,4,Laptop & Accessory,3,Married,11,0,15,2,2,1,191
+1,Computer,1,7,COD,Male,3,5,Laptop & Accessory,5,Married,7,0,20,3,3,1,168
+23,Computer,1,25,Debit Card,Male,4,4,Laptop & Accessory,1,Married,3,1,16,1,2,8,193
+14,Mobile Phone,1,26,Credit Card,Male,2,4,Laptop & Accessory,1,Married,10,1,16,4,4,8,152
+1,Phone,1,12,Debit Card,Male,3,2,Mobile Phone,4,Married,3,1,17,3,3,3,148
+14,Computer,1,16,Debit Card,Male,4,5,Laptop & Accessory,1,Married,11,0,15,1,2,3,174
+31,Phone,1,10,Debit Card,Male,4,5,Mobile Phone,1,Married,5,0,18,1,2,1,147
+14,Mobile Phone,1,31,COD,Male,4,4,Laptop & Accessory,1,Married,3,0,18,3,5,8,158
+7,Mobile Phone,1,12,Debit Card,Female,4,5,Mobile Phone,1,Married,3,0,14,1,2,3,154
+8,Mobile Phone,1,9,Debit Card,Male,3,5,Laptop & Accessory,5,Married,8,0,14,1,6,10,185
+3,Phone,1,22,Debit Card,Male,3,4,Mobile Phone,1,Single,3,0,20,2,2,6,148
+1,Computer,1,36,Credit Card,Male,4,5,Mobile Phone,4,Single,2,0,12,1,2,5,160
+6,Computer,1,14,Debit Card,Male,4,2,Mobile Phone,4,Married,3,0,21,1,2,4,153
+3,Mobile Phone,3,9,Credit Card,Male,4,5,Laptop & Accessory,4,Married,4,0,20,2,2,1,191
+3,Computer,3,9,Debit Card,Male,3,4,Laptop & Accessory,1,Single,3,0,19,1,2,10,171
+1,Phone,1,23,Credit Card,Male,3,4,Mobile Phone,4,Married,4,1,14,2,2,3,149
+2,Mobile Phone,1,15,Debit Card,Female,4,4,Mobile Phone,1,Single,3,0,22,2,2,3,158
+1,Phone,1,10,Debit Card,Male,3,4,Mobile Phone,3,Single,3,0,14,2,2,1,139
+1,Phone,3,17,Credit Card,Female,4,5,Mobile Phone,3,Single,3,0,13,1,2,1,137
+5,Mobile Phone,1,9,Debit Card,Male,3,4,Mobile Phone,1,Married,2,1,19,3,3,3,152
+1,Mobile Phone,1,9,Credit Card,Male,3,6,Mobile Phone,1,Married,7,1,14,2,3,3,160
+1,Computer,3,7,E wallet,Male,4,4,Laptop & Accessory,4,Married,2,1,14,1,2,5,188
+14,Mobile Phone,3,7,Credit Card,Male,3,6,Laptop & Accessory,1,Married,4,1,23,2,2,3,200
+1,Mobile Phone,3,15,E wallet,Female,3,4,Laptop & Accessory,4,Married,3,0,19,1,2,8,187
+3,Mobile Phone,3,17,E wallet,Female,3,5,Laptop & Accessory,4,Married,3,1,15,2,2,8,208
+15,Mobile Phone,1,13,Credit Card,Male,4,5,Laptop & Accessory,4,Single,8,1,16,2,2,3,185
+11,Mobile Phone,1,13,Credit Card,Male,3,2,Laptop & Accessory,5,Married,6,1,14,7,7,8,185
+1,Computer,3,7,COD,Female,4,5,Mobile Phone,4,Single,3,1,12,2,2,3,147
+14,Phone,1,17,Debit Card,Female,3,2,Mobile Phone,3,Married,5,1,14,1,2,8,147
+4,Mobile Phone,3,29,E wallet,Male,4,5,Laptop & Accessory,3,Married,4,1,13,2,2,1,189
+25,Mobile Phone,3,21,Debit Card,Female,3,4,Laptop & Accessory,1,Married,6,0,12,2,2,8,174
+10,Mobile Phone,1,9,Debit Card,Female,4,4,Mobile Phone,3,Married,6,0,14,3,3,3,150
+1,Phone,1,18,Credit Card,Female,3,4,Mobile Phone,4,Married,3,0,14,2,2,3,147
+10,Mobile Phone,3,9,Credit Card,Male,4,5,Fashion,3,Married,3,0,14,9,10,1,201
+11,Mobile Phone,1,17,Debit Card,Male,3,4,Laptop & Accessory,4,Single,4,1,13,1,2,2,167
+4,Mobile Phone,3,19,COD,Female,3,4,Laptop & Accessory,3,Single,2,0,12,4,5,5,191
+15,Mobile Phone,3,7,E wallet,Male,3,2,Fashion,5,Married,3,0,17,2,2,8,209
+2,Mobile Phone,1,24,Credit Card,Male,4,4,Laptop & Accessory,5,Married,3,0,13,1,2,9,171
+20,Mobile Phone,1,25,Credit Card,Female,3,4,Laptop & Accessory,3,Married,4,0,15,2,2,9,173
+1,Mobile Phone,2,9,COD,Male,3,5,Mobile Phone,1,Single,3,0,13,1,2,1,151
+4,Computer,3,29,UPI,Female,4,4,Fashion,5,Married,2,0,12,4,8,9,209
+4,Computer,1,9,Credit Card,Female,3,4,Mobile Phone,1,Single,2,0,15,2,7,8,151
+5,Mobile Phone,1,16,Debit Card,Male,3,4,Fashion,4,Married,3,0,26,1,2,9,231
+1,Mobile Phone,1,17,Credit Card,Male,3,6,Mobile Phone,1,Married,9,0,14,1,2,4,159
+16,Mobile Phone,1,31,Credit Card,Male,3,4,Fashion,5,Married,3,1,22,6,6,9,199
+1,Computer,2,24,Debit Card,Female,3,4,Mobile Phone,3,Married,2,1,12,1,2,1,152
+1,Mobile Phone,3,36,Credit Card,Male,3,4,Laptop & Accessory,3,Married,7,0,13,1,2,1,168
+1,Phone,1,31,COD,Male,4,6,Mobile Phone,1,Single,3,1,19,1,2,1,148
+11,Mobile Phone,1,7,Cash on Delivery,Female,3,4,Fashion,1,Single,6,0,18,2,2,3,200
+1,Computer,3,18,UPI,Male,3,2,Laptop & Accessory,3,Married,10,0,13,2,2,3,172
+1,Mobile Phone,3,35,E wallet,Male,4,4,Laptop & Accessory,4,Married,3,0,21,1,2,5,188
+5,Mobile Phone,3,13,Credit Card,Male,4,2,Laptop & Accessory,1,Married,6,0,23,6,6,8,180
+6,Mobile Phone,1,16,Debit Card,Female,4,4,Laptop & Accessory,1,Married,3,1,13,2,2,6,188
+1,Computer,1,10,Debit Card,Male,4,4,Mobile Phone,5,Single,3,1,12,6,10,8,158
+1,Mobile Phone,3,10,Debit Card,Female,4,4,Laptop & Accessory,3,Single,11,0,15,2,3,1,171
+13,Mobile Phone,1,9,COD,Female,4,5,Laptop & Accessory,3,Single,3,0,12,2,12,11,171
+1,Phone,1,7,Debit Card,Female,4,6,Mobile Phone,4,Single,9,1,14,2,4,8,147
+12,Mobile Phone,1,7,Debit Card,Female,3,4,Fashion,3,Single,6,1,15,1,2,1,204
+4,Mobile Phone,3,34,E wallet,Male,4,4,Laptop & Accessory,1,Married,9,0,24,3,8,8,178
+17,Computer,3,22,Debit Card,Male,3,5,Laptop & Accessory,1,Married,5,0,19,2,3,3,193
+1,Mobile Phone,1,16,Credit Card,Male,3,4,Mobile Phone,5,Married,3,0,15,2,2,3,150
+13,Mobile Phone,2,10,UPI,Female,3,2,Laptop & Accessory,4,Married,11,0,16,1,4,7,189
+14,Phone,1,9,Credit Card,Female,3,5,Mobile Phone,1,Single,2,1,21,1,3,4,148
+9,Computer,1,9,Debit Card,Female,4,4,Laptop & Accessory,5,Married,4,0,12,2,2,1,176
+3,Mobile Phone,1,34,Credit Card,Female,4,4,Laptop & Accessory,3,Married,6,0,13,1,2,2,168
+28,Mobile Phone,1,26,Credit Card,Female,4,4,Laptop & Accessory,5,Married,11,1,12,1,2,5,180
+11,Mobile Phone,1,17,Debit Card,Female,3,4,Mobile Phone,5,Married,2,1,14,5,5,4,153
+4,Mobile Phone,1,7,Debit Card,Male,3,6,Mobile Phone,3,Married,5,0,22,2,2,3,163
+14,Computer,1,9,Credit Card,Female,3,2,Laptop & Accessory,4,Married,3,0,25,1,4,8,167
+1,Phone,1,13,Debit Card,Male,4,2,Mobile Phone,5,Married,3,1,22,1,2,1,141
+1,Mobile Phone,3,23,E wallet,Female,4,4,Laptop & Accessory,5,Single,7,0,16,2,2,3,178
+10,Mobile Phone,1,7,UPI,Female,3,4,Laptop & Accessory,4,Married,2,0,16,2,2,6,177
+1,Mobile Phone,1,9,Credit Card,Male,3,4,Mobile Phone,3,Single,8,0,18,3,3,2,169
+6,Mobile Phone,1,11,Debit Card,Female,4,5,Laptop & Accessory,3,Married,3,0,13,6,7,9,187
+4,Mobile Phone,1,9,Credit Card,Female,3,5,Laptop & Accessory,1,Single,7,1,25,2,2,1,194
+19,Mobile Phone,3,9,Credit Card,Male,3,4,Laptop & Accessory,1,Single,6,0,17,2,8,4,177
+2,Mobile Phone,3,9,E wallet,Female,3,4,Laptop & Accessory,4,Married,3,1,21,7,8,6,173
+8,Mobile Phone,2,10,UPI,Male,3,4,Mobile Phone,1,Married,2,0,20,2,2,3,162
+1,Mobile Phone,1,9,Credit Card,Male,4,2,Mobile Phone,5,Single,9,0,14,1,2,2,159
+11,Mobile Phone,3,23,E wallet,Male,4,5,Laptop & Accessory,3,Married,6,0,20,2,2,1,188
+18,Mobile Phone,1,15,Debit Card,Male,4,2,Mobile Phone,1,Married,4,1,25,2,2,3,153
+1,Mobile Phone,3,7,Credit Card,Female,3,5,Mobile Phone,3,Married,8,1,20,2,2,3,153
+11,Computer,3,28,Credit Card,Female,3,4,Mobile Phone,1,Married,7,0,16,2,2,1,155
+13,Mobile Phone,2,9,Debit Card,Female,3,5,Laptop & Accessory,1,Married,10,0,12,2,2,5,177
+3,Mobile Phone,1,14,Credit Card,Female,4,5,Mobile Phone,1,Married,8,0,15,2,2,4,150
+2,Mobile Phone,3,12,Credit Card,Male,4,4,Laptop & Accessory,1,Single,3,0,15,1,2,3,174
+5,Mobile Phone,1,9,Debit Card,Female,3,6,Mobile Phone,1,Married,6,1,14,1,2,1,153
+16,Mobile Phone,3,21,Credit Card,Female,4,5,Laptop & Accessory,3,Single,9,0,18,2,2,4,187
+7,Mobile Phone,1,7,UPI,Male,4,5,Mobile Phone,5,Single,5,1,12,2,2,3,153
+23,Mobile Phone,1,15,UPI,Female,3,4,Fashion,4,Married,6,0,12,1,2,8,199
+22,Phone,1,27,Credit Card,Male,3,4,Mobile Phone,3,Married,6,0,18,2,2,1,148
+10,Mobile Phone,1,9,Credit Card,Male,4,4,Mobile Phone,3,Single,6,0,22,2,4,10,150
+1,Phone,3,28,UPI,Male,3,5,Mobile Phone,4,Single,3,1,14,2,2,1,146
+3,Computer,3,27,COD,Female,3,4,Mobile Phone,1,Married,3,0,16,1,2,3,147
+7,Mobile Phone,1,20,Debit Card,Female,3,4,Mobile Phone,1,Single,5,0,19,2,2,3,160
+7,Computer,1,7,UPI,Female,3,2,Laptop & Accessory,4,Married,3,1,14,2,2,3,180
+21,Mobile Phone,3,11,Debit Card,Female,3,4,Laptop & Accessory,1,Single,3,1,18,2,2,8,167
+15,Mobile Phone,1,14,Credit Card,Female,3,4,Laptop & Accessory,3,Single,8,0,15,3,3,2,175
+12,Mobile Phone,3,10,Debit Card,Male,3,4,Laptop & Accessory,1,Single,10,1,13,2,2,1,194
+16,Mobile Phone,3,9,E wallet,Female,3,6,Others,1,Married,3,0,16,4,7,10,323
+24,Computer,3,7,Debit Card,Female,4,4,Laptop & Accessory,3,Married,2,0,13,1,2,14,188
+6,Computer,1,36,Credit Card,Female,4,4,Mobile Phone,3,Single,11,0,13,7,8,8,165
+27,Computer,3,9,E wallet,Female,3,5,Fashion,4,Married,4,0,13,6,7,13,200
+11,Mobile Phone,1,10,UPI,Female,3,4,Laptop & Accessory,4,Single,5,0,16,2,2,2,166
+14,Mobile Phone,3,33,E wallet,Male,4,4,Laptop & Accessory,5,Married,3,0,15,4,8,6,209
+1,Computer,1,7,Credit Card,Female,4,5,Mobile Phone,3,Married,3,0,14,1,2,4,145
+30,Computer,1,16,Credit Card,Female,4,4,Mobile Phone,3,Married,4,0,20,2,2,4,154
+15,Mobile Phone,1,11,Debit Card,Male,3,4,Mobile Phone,3,Married,11,1,13,1,3,8,150
+2,Phone,1,22,Debit Card,Male,3,4,Mobile Phone,3,Married,3,0,17,1,3,3,147
+8,Computer,1,10,Debit Card,Male,3,4,Laptop & Accessory,1,Single,2,0,18,2,2,5,203
+14,Computer,3,7,UPI,Male,3,4,Laptop & Accessory,3,Single,5,1,15,2,2,1,172
+2,Mobile Phone,1,9,Debit Card,Male,4,5,Mobile Phone,4,Married,2,0,18,1,2,5,157
+1,Mobile Phone,1,13,Debit Card,Male,3,5,Mobile Phone,3,Married,3,0,14,2,3,3,150
+16,Mobile Phone,3,11,E wallet,Male,3,4,Laptop & Accessory,5,Single,9,0,14,2,2,6,177
+8,Computer,1,8,Credit Card,Male,4,5,Laptop & Accessory,5,Single,2,0,21,1,5,10,178
+7,Mobile Phone,3,16,E wallet,Female,3,6,Laptop & Accessory,3,Single,10,0,14,1,2,4,178
+1,Mobile Phone,1,16,Debit Card,Male,3,4,Mobile Phone,5,Single,3,0,26,1,2,1,151
+11,Mobile Phone,1,8,Debit Card,Female,3,5,Laptop & Accessory,1,Married,3,0,14,1,4,12,190
+4,Mobile Phone,3,36,Debit Card,Male,4,4,Laptop & Accessory,5,Married,10,0,20,2,2,4,166
+2,Mobile Phone,1,26,Credit Card,Male,4,5,Mobile Phone,5,Married,3,0,13,2,4,4,157
+14,Mobile Phone,3,17,Cash on Delivery,Female,3,5,Laptop & Accessory,4,Married,9,0,13,2,2,4,194
+7,Mobile Phone,3,17,E wallet,Male,3,2,Fashion,3,Married,2,1,15,1,2,9,209
+1,Computer,1,17,Debit Card,Female,3,5,Mobile Phone,3,Single,3,0,21,2,3,3,151
+9,Mobile Phone,1,13,Debit Card,Male,4,4,Mobile Phone,3,Married,2,1,15,2,3,3,160
+10,Mobile Phone,1,9,Debit Card,Female,3,4,Laptop & Accessory,4,Single,11,1,12,5,6,13,179
+31,Phone,1,30,Debit Card,Male,3,4,Mobile Phone,3,Married,3,0,13,2,3,3,149
+10,Mobile Phone,1,17,Cash on Delivery,Female,4,4,Fashion,3,Married,5,0,13,2,2,8,196
+12,Mobile Phone,3,9,Debit Card,Female,3,4,Laptop & Accessory,5,Married,5,0,16,1,2,8,194
+22,Mobile Phone,1,11,Debit Card,Male,3,4,Fashion,1,Single,3,0,12,2,2,9,204
+12,Computer,1,14,Debit Card,Male,3,2,Mobile Phone,3,Married,3,0,12,1,2,4,151
+2,Mobile Phone,3,33,Debit Card,Male,3,5,Laptop & Accessory,5,Married,3,0,12,2,2,5,172
+6,Mobile Phone,3,9,E wallet,Male,3,4,Laptop & Accessory,4,Married,2,1,14,2,2,3,166
+1,Mobile Phone,1,9,Credit Card,Male,3,5,Mobile Phone,1,Single,2,0,13,2,2,2,164
+8,Computer,1,8,UPI,Male,4,4,Mobile Phone,5,Married,7,0,15,2,2,4,155
+1,Phone,1,15,Debit Card,Female,3,5,Mobile Phone,4,Single,3,0,13,1,2,1,138
+1,Phone,1,18,Debit Card,Male,4,4,Mobile Phone,5,Married,2,0,15,2,2,5,146
+10,Mobile Phone,1,11,Debit Card,Male,3,5,Laptop & Accessory,1,Single,3,0,17,1,2,9,183
+11,Computer,1,12,COD,Male,3,2,Mobile Phone,3,Single,2,0,15,1,2,4,160
+3,Computer,1,9,Debit Card,Female,3,5,Mobile Phone,5,Single,4,1,24,1,2,1,161
+1,Computer,1,8,Debit Card,Female,4,2,Fashion,4,Single,3,0,12,2,5,8,199
+5,Phone,2,15,Credit Card,Female,4,2,Mobile Phone,4,Single,11,0,19,2,2,3,146
+14,Phone,1,9,Credit Card,Male,4,4,Mobile Phone,3,Married,4,0,15,2,2,3,148
+18,Computer,3,8,E wallet,Female,4,4,Laptop & Accessory,3,Married,9,0,13,1,2,1,173
+4,Computer,1,14,COD,Male,4,4,Mobile Phone,3,Married,3,0,14,1,2,1,138
+1,Computer,1,9,Credit Card,Male,3,5,Mobile Phone,5,Single,9,0,12,2,2,1,151
+2,Phone,1,8,Debit Card,Male,4,5,Mobile Phone,3,Married,3,0,15,1,2,1,141
+2,Computer,3,14,Debit Card,Male,3,4,Laptop & Accessory,5,Single,2,0,15,2,2,4,174
+3,Computer,1,9,Debit Card,Female,4,4,Mobile Phone,4,Married,2,0,14,2,2,3,157
+11,Mobile Phone,1,20,Credit Card,Male,3,4,Laptop & Accessory,1,Married,3,0,18,3,4,8,168
+19,Phone,1,35,COD,Male,4,4,Mobile Phone,1,Married,6,0,21,2,2,4,146
+14,Computer,1,15,Debit Card,Male,4,4,Laptop & Accessory,1,Married,5,1,19,2,3,3,166
+7,Mobile Phone,3,15,Debit Card,Male,3,4,Laptop & Accessory,5,Married,4,0,14,3,3,3,189
+12,Computer,2,17,UPI,Male,4,4,Laptop & Accessory,3,Married,5,0,12,1,2,3,186
+22,Phone,1,22,UPI,Female,4,4,Mobile Phone,5,Married,10,0,13,7,8,7,149
+8,Mobile Phone,1,14,Credit Card,Male,3,4,Mobile Phone,1,Single,3,0,14,1,2,1,155
+12,Mobile Phone,3,23,Debit Card,Female,3,4,Laptop & Accessory,4,Single,4,0,13,2,2,3,167
+13,Mobile Phone,3,13,Credit Card,Male,3,2,Fashion,3,Married,4,0,12,4,8,7,207
+1,Phone,1,17,COD,Male,3,2,Mobile Phone,3,Married,4,0,17,1,3,3,146
+1,Phone,1,31,Credit Card,Male,3,4,Mobile Phone,4,Married,3,1,18,1,2,1,149
+9,Mobile Phone,1,25,Debit Card,Male,3,2,Laptop & Accessory,5,Married,3,0,12,2,2,11,177
+1,Computer,3,10,Credit Card,Female,4,4,Mobile Phone,1,Single,3,1,13,2,2,1,141
+13,Computer,1,11,Credit Card,Female,3,4,Laptop & Accessory,3,Single,2,0,14,4,4,9,175
+12,Mobile Phone,1,9,Credit Card,Female,3,5,Fashion,3,Married,5,1,20,1,2,3,203
+14,Mobile Phone,1,23,Debit Card,Female,3,4,Fashion,1,Single,8,1,16,4,4,4,204
+1,Mobile Phone,3,22,Credit Card,Male,3,6,Laptop & Accessory,1,Married,8,1,15,1,3,3,179
+1,Computer,1,9,COD,Female,3,4,Mobile Phone,1,Single,3,1,14,1,2,4,163
+1,Mobile Phone,1,15,Credit Card,Female,3,2,Mobile Phone,3,Married,9,0,18,1,2,3,160
+13,Mobile Phone,1,19,Credit Card,Male,4,4,Laptop & Accessory,4,Married,6,0,22,2,2,1,178
+12,Computer,1,8,Debit Card,Male,3,4,Laptop & Accessory,1,Married,9,0,16,2,3,10,172
+3,Mobile Phone,3,12,Credit Card,Male,3,5,Laptop & Accessory,4,Married,3,1,14,1,2,10,167
+1,Mobile Phone,3,16,Debit Card,Male,3,4,Mobile Phone,5,Single,3,0,12,1,2,3,152
+7,Computer,3,23,Debit Card,Female,3,4,Laptop & Accessory,1,Married,3,1,26,1,2,3,179
+18,Mobile Phone,2,8,Debit Card,Female,3,4,Mobile Phone,1,Married,6,1,19,3,3,3,157
+27,Mobile Phone,1,31,Credit Card,Male,3,2,Fashion,1,Married,5,0,16,1,2,3,195
+12,Computer,3,14,Credit Card,Female,4,4,Mobile Phone,3,Married,4,1,12,2,8,8,152
+10,Mobile Phone,3,9,Debit Card,Female,3,4,Laptop & Accessory,1,Single,5,0,16,7,7,8,170
+1,Phone,2,29,UPI,Male,3,6,Mobile Phone,3,Married,3,0,12,1,2,1,141
+5,Mobile Phone,1,9,Debit Card,Male,4,4,Mobile Phone,3,Married,3,0,15,2,2,4,160
+1,Mobile Phone,1,11,Credit Card,Female,3,4,Mobile Phone,4,Single,3,0,14,1,2,3,158
+4,Computer,1,9,COD,Female,4,5,Mobile Phone,5,Single,2,0,17,1,2,8,175
+3,Computer,1,8,Debit Card,Male,4,2,Laptop & Accessory,3,Single,10,1,13,2,2,3,188
+23,Mobile Phone,3,18,E wallet,Female,4,4,Laptop & Accessory,1,Single,5,0,13,1,2,5,170
+1,Mobile Phone,3,23,E wallet,Male,4,4,Fashion,3,Married,4,0,14,1,2,1,207
+7,Computer,1,11,COD,Male,3,4,Laptop & Accessory,4,Married,7,0,16,1,2,8,156
+8,Mobile Phone,3,10,Debit Card,Female,3,6,Laptop & Accessory,1,Single,7,0,13,3,3,3,185
+12,Mobile Phone,1,13,UPI,Female,3,5,Mobile Phone,3,Married,3,0,12,2,2,5,162
+10,Mobile Phone,1,17,Debit Card,Male,3,4,Fashion,5,Married,9,1,14,3,6,8,208
+11,Mobile Phone,2,15,UPI,Male,3,4,Laptop & Accessory,4,Married,4,0,14,4,5,8,166
+12,Computer,2,9,UPI,Male,4,4,Mobile Phone,4,Married,7,0,14,3,4,9,151
+1,Computer,1,16,Debit Card,Male,4,4,Laptop & Accessory,5,Married,6,0,18,1,2,8,178
+1,Mobile Phone,1,17,Credit Card,Male,3,4,Laptop & Accessory,5,Single,3,0,16,1,2,9,167
+1,Phone,2,27,Credit Card,Female,4,4,Mobile Phone,4,Married,2,1,12,1,2,5,146
+12,Mobile Phone,3,9,E wallet,Female,4,6,Laptop & Accessory,1,Married,4,1,21,1,2,4,179
+3,Mobile Phone,1,36,Debit Card,Male,4,6,Laptop & Accessory,3,Married,10,0,18,1,2,7,189
+1,Mobile Phone,3,30,Credit Card,Female,3,5,Laptop & Accessory,3,Married,3,0,22,4,6,9,160
+1,Computer,1,31,Debit Card,Male,4,5,Mobile Phone,1,Single,3,1,25,2,2,1,149
+13,Mobile Phone,1,26,UPI,Male,3,4,Laptop & Accessory,1,Married,10,0,15,1,3,3,164
+1,Phone,3,16,Credit Card,Male,3,4,Mobile Phone,1,Single,3,0,14,1,2,1,136
+10,Mobile Phone,3,17,COD,Female,4,5,Laptop & Accessory,3,Married,3,1,14,1,2,8,182
+11,Mobile Phone,1,14,Credit Card,Male,4,4,Laptop & Accessory,5,Married,7,1,23,1,2,5,168
+1,Mobile Phone,1,8,Debit Card,Female,3,5,Mobile Phone,3,Married,3,1,14,1,2,1,154
+1,Computer,1,23,COD,Male,3,6,Mobile Phone,5,Married,3,1,24,1,4,1,148
+20,Mobile Phone,1,31,Debit Card,Male,4,4,Mobile Phone,1,Single,3,0,17,1,2,1,151
+10,Mobile Phone,3,24,E wallet,Male,3,5,Laptop & Accessory,4,Married,4,0,17,2,2,4,180
+19,Computer,1,8,Credit Card,Male,3,4,Laptop & Accessory,3,Single,6,0,13,1,2,4,179
+7,Mobile Phone,3,17,E wallet,Male,3,4,Laptop & Accessory,3,Single,3,0,15,1,2,10,180
+13,Computer,3,28,Debit Card,Female,3,6,Laptop & Accessory,3,Married,8,0,20,1,2,3,182
+13,Mobile Phone,1,16,Credit Card,Male,3,4,Laptop & Accessory,5,Married,3,0,26,1,8,10,177
+1,Computer,1,12,Debit Card,Female,3,2,Mobile Phone,3,Single,5,1,15,1,2,4,149
+1,Phone,1,24,COD,Male,3,5,Mobile Phone,1,Married,7,0,13,2,2,4,149
+28,Mobile Phone,1,17,Credit Card,Female,4,4,Laptop & Accessory,5,Single,8,1,20,1,2,5,169
+14,Computer,1,18,COD,Female,4,4,Laptop & Accessory,3,Married,3,0,12,8,10,5,188
+16,Mobile Phone,1,25,Debit Card,Male,3,4,Laptop & Accessory,5,Married,8,1,18,2,2,3,179
+9,Mobile Phone,1,16,Credit Card,Male,3,4,Laptop & Accessory,3,Single,3,0,20,1,2,9,176
+14,Phone,1,8,Debit Card,Male,3,4,Mobile Phone,1,Married,10,0,20,2,2,1,149
+6,Phone,3,8,Credit Card,Male,4,5,Mobile Phone,4,Married,2,0,15,3,3,3,148
+26,Computer,3,36,Debit Card,Male,3,4,Mobile Phone,1,Married,4,0,16,2,2,1,160
+1,Mobile Phone,1,8,Credit Card,Male,3,4,Mobile Phone,1,Married,11,1,15,3,3,3,173
+10,Computer,3,22,E wallet,Male,3,6,Laptop & Accessory,1,Married,3,0,25,6,12,12,179
+6,Phone,1,9,COD,Male,4,4,Mobile Phone,5,Single,3,0,15,1,2,3,149
+14,Mobile Phone,1,9,Debit Card,Male,1,5,Mobile Phone,3,Single,4,0,15,1,3,3,153
