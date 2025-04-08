@@ -1,0 +1,41 @@
+Here's the explanation of each column from your E-Commerce Dataset:
+
+CUSTOMER ID: Unique identifier for each customer.
+
+TENURE: Number of years or months the customer has been associated with the platform.
+
+PREFERRED LOGIN DEVICE: The device most often used by the customer to log in (e.g., Phone, Mobile Phone, Computer).
+
+CITY TIER: Indicates the customer's city classification — Tier 1, 2, or 3 based on infrastructure and development.
+
+WAREHOUSE TO HOME: Distance (probably in km) from the warehouse to the customer's home.
+
+PREFERRED PAYNENT MODE: The customer’s most used payment method (e.g., Debit Card, Credit Card, UPI).
+
+GENDER: Gender of the customer (Male/Female).
+
+HOURS SPEND ON APP: Average number of hours the customer spends on the app.
+
+NUMBER OF DEVICE REGISTERED: How many devices the customer has registered with the platform.
+
+PREFERED ORDER CAT: The most frequently ordered product category (e.g., Mobile, Laptop & Accessory).
+
+SATISFACTION SCORE: Customer satisfaction level, usually on a scale of 1–5.
+
+MARITAL STATUS: Marital status of the customer (e.g., Single, Married).
+
+NUMBER OF ADDRESS: Number of delivery addresses associated with the customer.
+
+COMPLAIN: Whether the customer has lodged any complaints (1 = Yes, 0 = No).
+
+ORDER AMOUNT HIKE FROM LAST YEAR: Percentage increase in total order amount compared to last year.
+
+COUPON USED: Whether the customer used a coupon (1 = Yes, 0 = No).
+
+ORDER COUNT: Total number of orders placed by the customer.
+
+DAY SINCE LAST ORDER: Days since the last order was placed.
+
+CASH BACK AMOUNT: Cashback earned by the customer (in currency units).
+
+CHURN: Target variable — whether the customer has churned (1 = Yes, 0 = No).
