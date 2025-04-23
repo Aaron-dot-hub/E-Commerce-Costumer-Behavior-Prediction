@@ -4,11 +4,11 @@ import numpy as np
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 
-#model_path = "best_xgb_model.pkl"
-#model_path_1 = "pca_model.pkl"
+model_path = "best_xgb_model.pkl"
+model_path_1 = "pca_model.pkl"
 # Load trained XGBoost model and PCA model
-xgb_classifier = joblib.load(r"D:\FINALISED PROJECT FOLDER\best_xgb_model.pkl")
-pca_optimal = joblib.load(r"D:\FINALISED PROJECT FOLDER\pca_model.pkl")  # Load trained PCA model
+xgb_classifier = joblib.load(model_path)
+pca_optimal = joblib.load(model_path_1)  # Load trained PCA model
 
 # Title
 st.title("E-Commerce Customer Behavior Prediction")
