@@ -31,7 +31,7 @@ def make_prediction(df_row):
     df_row_pca = pca_optimal.transform(df_row)
     pred = xgb_classifier.predict(df_row_pca)[0]
     prob = xgb_classifier.predict_proba(df_row_pca)[0][1]  # probability for class 1
-    result = "Likely to Purchase" if pred == 1 else "Not Likely to Purchase"
+    result = "Likely to Churn" if pred == 1 else "Not Likely to Churn"
     return result, prob
 
 # Manual Entry
